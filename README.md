@@ -32,5 +32,5 @@ Using Pandas, this project answers the following:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/demographic-data-analyzer.git
+   git clone https://github.com/whysovenky/demographic-data-analyzer.git
    cd demographic-data-analyzer
